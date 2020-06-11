@@ -1,0 +1,1 @@
+action.miralert.param.severity = <integer>
