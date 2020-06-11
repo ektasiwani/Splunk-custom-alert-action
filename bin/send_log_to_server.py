@@ -19,10 +19,10 @@ ioc = "ip_address"
 ioc_provider = "Splunk"
 
 # Connect to the database.
-connection = pymysql.connect(host='10.255.16.126',
-                             user='root',
-                             password='P@ssw0rd@12',                             
-                             db='mir_db',
+connection = pymysql.connect(host='<ip address>',
+                             user='<username>',
+                             password='<password>',                             
+                             db='<db>',
                              charset='utf8mb4',
                              cursorclass=pymysql.cursors.DictCursor)
 
