@@ -1,4 +1,4 @@
-# update_mysql_alert
+# Splunk-custom-alert-action
 
 Use case of this alert:
 1. Alert is used to send security events to your SIEM your your SOAR platform
