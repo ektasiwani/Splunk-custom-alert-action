@@ -1,4 +1,5 @@
 # Splunk-custom-alert-action
+This alert is created to send splunk alert data to external platform using MySQL or MongoDB.
 
 Use case of this alert:
 1. Alert is used to send security events to your SIEM your your SOAR platform
@@ -21,3 +22,6 @@ Steps to use it:
 2. Under alert action, select your alert
 3. add the severity of the attack you are capturing
 3. Save the alert
+
+  
+  For more details connect me at: ekta@qostechnology.in
